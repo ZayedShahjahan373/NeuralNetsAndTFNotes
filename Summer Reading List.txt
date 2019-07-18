@@ -1,0 +1,7 @@
+Non-Technical:
+1. The Book of Why: The New Science of Cause and Effect - Judea Pearl
+2. The Emperor of all Maladies: A Biography of Cancer - Siddthartha Mukherjee
+3. Why Nations Fail: The Origins of Power, Prosperity and Poverty - Daron Acemoglu
+Technical:
+1. Hands-On Machine Learning with SciKit-Learn and Tensorflow - Aurelien Geron
+2. Bayesian Analysis with Python - Osvaldo Martin
